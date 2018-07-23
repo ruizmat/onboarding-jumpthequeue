@@ -1,0 +1,2 @@
+[D: 2018-07-12 08:38:33,713] [P: WARN ] [C: ] [T: main] [L: org.dozer.config.GlobalSettings] - [M: Dozer configuration file not found: dozer.properties.  Using defaults for all Dozer global properties.]
+[D: 2018-07-12 08:42:09,390] [P: WARN ] [C: ] [T: http-nio-8081-exec-5] [L: com.cap.jumpthequeue.general.common.impl.security.BaseUserDetailsService] - [M: Undefined access control waiter.]
